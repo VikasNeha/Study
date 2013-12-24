@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" name="Default" comment="" />
+    <ignored path="Study.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/study1.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1380301564335" ignored="false" />
+    <file path="/Python Console" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1383831923937" ignored="false" />
+    <file path="/Dummy.txt" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1384987340654" ignored="false" />
+    <file path="$PROJECT_DIR$/../prv1/prv1Automation/pages/pageBase.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381173962443" ignored="false" />
+    <file path="/pageBase.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381173962443" ignored="false" />
+    <file path="$PROJECT_DIR$/../prv1/prv1Automation/pages/swaPage.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381178154285" ignored="false" />
+    <file path="/swaPage.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381680772960" ignored="false" />
+    <file path="$PROJECT_DIR$/../prv1/prv1Automation/tools/dbconn.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381165212616" ignored="false" />
+    <file path="/dbconn.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1379095012461" ignored="false" />
+    <file path="$PROJECT_DIR$/../prv1/prv1Automation/pages/logger.log" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381181492132" ignored="false" />
+    <file path="/pageFactory.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381162778219" ignored="false" />
+    <file path="$PROJECT_DIR$/../prv1/prv1Automation/pages/pageFactory.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381173869236" ignored="false" />
+    <file path="$PROJECT_DIR$/../prv1/prv1Automation/pages/attPage.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1379162356868" ignored="false" />
+    <file path="/attPage.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1379162303223" ignored="false" />
+    <file path="$PROJECT_DIR$/../Study_Web/root/nested/__init__.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1379164024409" ignored="false" />
+    <file path="$PROJECT_DIR$/../Study_Web/root/__init__.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1379164024409" ignored="false" />
+    <file path="$PROJECT_DIR$/../Study_Web/root/nested/app.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1379164176834" ignored="false" />
+    <file path="/app.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1379164151762" ignored="false" />
+    <file path="/study_oracle.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1379187897565" ignored="false" />
+    <file path="$PROJECT_DIR$/../prv1/prv1Automation/pages/prudentialPage.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1379189838088" ignored="false" />
+    <file path="/prudentialPage.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1379189838088" ignored="false" />
+    <file path="/string1.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1379243905751" ignored="false" />
+    <file path="/string2.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1379245348991" ignored="false" />
+    <file path="/list1.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1379246044362" ignored="false" />
+    <file path="/list2.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1379247328381" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Workspace_Ben/CL_AutoFlagging/com/Main/FlagAllAds.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1380302607608" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Workspace_Ben/CL_AutoFlagging/com/PageEvents/Proxy_Auth.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1380302222801" ignored="false" />
+    <file path="/Proxy_Auth.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1380302222801" ignored="false" />
+    <file path="/FlagAllAds.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1380302607608" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Workspace_Ben/CL_AutoFlagging/com/PageEvents/webpageEvents.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1380302171043" ignored="false" />
+    <file path="/webpageEvents.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387632312259" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Workspace_Ben/CL_AutoFlagging/com/tmp/logger.log" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1380302725093" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Workspace_Ben/CL_AutoFlagging/com/PageEvents/clEvents.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1380302054063" ignored="false" />
+    <file path="/study_mysql.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381175974867" ignored="false" />
+    <file path="/a.dummy" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382818783069" ignored="false" />
+    <file path="/study2.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381784543963" ignored="false" />
+    <file path="$PROJECT_DIR$/../PRV2/prv/forms.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381499681148" ignored="false" />
+    <file path="/forms.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1380979259832" ignored="false" />
+    <file path="$PROJECT_DIR$/../PRV2/prv/models.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381733422091" ignored="false" />
+    <file path="/models.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381733421249" ignored="false" />
+    <file path="$PROJECT_DIR$/../PRV2/PRV2_project/settings.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381840121124" ignored="false" />
+    <file path="$PROJECT_DIR$/../PRV2/prv/admin.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381499681148" ignored="false" />
+    <file path="/admin.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382966378004" ignored="false" />
+    <file path="$PROJECT_DIR$/../PRV2/prv/templates/supplierProfilePage/form.html" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381499681148" ignored="false" />
+    <file path="/form.html" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1380996597811" ignored="false" />
+    <file path="$PROJECT_DIR$/../PRV2/prv/views.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381499681148" ignored="false" />
+    <file path="/views.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382967277762" ignored="false" />
+    <file path="/settings.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1383679671571" ignored="false" />
+    <file path="$PROJECT_DIR$/../mysite/polls/admin.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381076151400" ignored="false" />
+    <file path="/dbconn_mysql.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381173368159" ignored="false" />
+    <file path="$PROJECT_DIR$/../prv1/prv1Automation/tools/dbconn_mysql.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381173384516" ignored="false" />
+    <file path="$PROJECT_DIR$/../prv1/prv1Automation/tools/settings.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381163526637" ignored="false" />
+    <file path="$PROJECT_DIR$/../prv1/prv1Automation/tools/logger.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381174382495" ignored="false" />
+    <file path="/logger.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381174382495" ignored="false" />
+    <file path="$PROJECT_DIR$/../PRV2/server-data.json" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381256296050" ignored="false" />
+    <file path="$PROJECT_DIR$/../PRV2/.gitignore" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381424453592" ignored="false" />
+    <file path="/NAICS.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381680191171" ignored="false" />
+    <file path="$PROJECT_DIR$/../scrapy_study/tutorial/Books" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381669536863" ignored="false" />
+    <file path="$PROJECT_DIR$/../scrapy_study/myScrapers/NAICS/NAICS/items.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381669766502" ignored="false" />
+    <file path="/items.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381669761590" ignored="false" />
+    <file path="$PROJECT_DIR$/../scrapy_study/myScrapers/NAICS/NAICS/spiders/NAICS_spider.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381670988959" ignored="false" />
+    <file path="/NAICS_spider.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381670979388" ignored="false" />
+    <file path="$PROJECT_DIR$/../scrapy_study/myScrapers/NAICS/Popup" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381671000378" ignored="false" />
+    <file path="$PROJECT_DIR$/../PRV2/AutomationTool/pages/swaPage.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381680789979" ignored="false" />
+    <file path="/NAICS_main.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381768559925" ignored="false" />
+    <file path="/shipTierDemo.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381941501125" ignored="false" />
+    <file path="/temp.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382964937758" ignored="false" />
+    <file path="/lab8matrices.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381952492656" ignored="false" />
+    <file path="$PROJECT_DIR$/../PRV2/requirements.txt" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1381995856243" ignored="false" />
+    <file path="/chat.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382557080580" ignored="false" />
+    <file path="/chatServer.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382830386834" ignored="false" />
+    <file path="/chatClient.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382916206009" ignored="false" />
+    <file path="/Tkinter-study.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382795866934" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Workspace_Ben/CS150_Project3/twittersort.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382793971928" ignored="false" />
+    <file path="/twittersort.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382793970177" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Workspace_Ben/CS150_Project3/output.txt" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382793976421" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Workspace_Ben/CL_AutoAdRenewal/com/AutoAdRenewal.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382801696889" ignored="false" />
+    <file path="/AutoAdRenewal.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382801692501" ignored="false" />
+    <file path="/chatClient2.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382802737545" ignored="false" />
+    <file path="D:/Python27/Lib/site-packages/twisted/mail/imap4.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382816794186" ignored="false" />
+    <file path="F:/Softwares/Python/kippo-0.8/kippo-0.8/kippo/commands/ping.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382820354612" ignored="false" />
+    <file path="F:/Softwares/Python/kippo-0.8/kippo-0.8/start.sh" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382819194196" ignored="false" />
+    <file path="/ping.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382820354612" ignored="false" />
+    <file path="/project5c.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382938990883" ignored="false" />
+    <file path="$PROJECT_DIR$/../StudyBootstrap/StudyBootstrap/urls.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382966614952" ignored="false" />
+    <file path="$PROJECT_DIR$/../StudyBootstrap/StudyBootstrap/settings.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382968421768" ignored="false" />
+    <file path="$PROJECT_DIR$/../StudyBootstrap/study1/models.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382966211286" ignored="false" />
+    <file path="$PROJECT_DIR$/../StudyBootstrap/study1/admin.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382966378442" ignored="false" />
+    <file path="$PROJECT_DIR$/../StudyBootstrap/study1/views.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382967279243" ignored="false" />
+    <file path="$PROJECT_DIR$/../StudyBootstrap/study1/urls.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382966510269" ignored="false" />
+    <file path="/urls.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382966614295" ignored="false" />
+    <file path="/index.html" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382998679405" ignored="false" />
+    <file path="$PROJECT_DIR$/../StudyBootstrap/study1/templates/study1/index.html" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382998703592" ignored="false" />
+    <file path="$PROJECT_DIR$/../StudyBootstrap/templates/base.html" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382998504390" ignored="false" />
+    <file path="$PROJECT_DIR$/../StudyBootstrap/templates/head.html" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382999260043" ignored="false" />
+    <file path="$PROJECT_DIR$/../StudyBootstrap/templates/header.html" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382969339537" ignored="false" />
+    <file path="$PROJECT_DIR$/../StudyBootstrap/templates/footer.html" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382999182095" ignored="false" />
+    <file path="/base.html" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382969102179" ignored="false" />
+    <file path="/head.html" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382999257689" ignored="false" />
+    <file path="/footer.html" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1382999182095" ignored="false" />
+    <file path="$PROJECT_DIR$/../REST_tutorial/REST_tutorial/settings.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1383039309311" ignored="false" />
+    <file path="$PROJECT_DIR$/../REST_tutorial/REST_tutorial/urls.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1383039309311" ignored="false" />
+    <file path="/speech.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1383217455406" ignored="false" />
+    <file path="/speech_temp.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1383218268908" ignored="false" />
+    <file path="$PROJECT_DIR$/../BlockSitesFF/BlockSitesFF.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1383222332347" ignored="false" />
+    <file path="/BlockSitesFF.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1383222331150" ignored="false" />
+    <file path="$PROJECT_DIR$/../timesheets/timesheets/settings.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1383679674942" ignored="false" />
+    <file path="$PROJECT_DIR$/../timesheets/static/_config.yml" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1383679632343" ignored="false" />
+    <file path="/freightauto.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1383837823184" ignored="false" />
+    <file path="/image_download.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387315790889" ignored="false" />
+    <file path="$PROJECT_DIR$/../Alex_Scraping/gold_links.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1384972952409" ignored="false" />
+    <file path="/gold_links.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1384972951135" ignored="false" />
+    <file path="$PROJECT_DIR$/../Alex_Scraping/Gold/gold_prod_links" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1384701895194" ignored="false" />
+    <file path="$PROJECT_DIR$/../Alex_Scraping/Silver/silver_prod_links" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1384702490590" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping/get_categories.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1384982403160" ignored="false" />
+    <file path="/get_categories.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1384981836906" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping/csv_files/categories.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1384982423368" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping/get_subcategories.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1384982913601" ignored="false" />
+    <file path="/get_subcategories.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1384982910265" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping/csv_files/sub_categories.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1384982886161" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping/get_productURLs.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1384988535835" ignored="false" />
+    <file path="/get_productURLs.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1384988469321" ignored="false" />
+    <file path="D:/Python27/Lib/site-packages/selenium/webdriver/firefox/webdriver.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1384986961813" ignored="false" />
+    <file path="D:/Python27/Lib/site-packages/selenium/webdriver/remote/webdriver.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1384986961813" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping/scrap_prod_details.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385230174289" ignored="false" />
+    <file path="/scrap_prod_details.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385230174289" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping/csv_files/product_links_remd_10.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385558559066" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping/csv_files/products_scrapped_10.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385558547887" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping/count_sub_prods.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385228045037" ignored="false" />
+    <file path="/count_sub_prods.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385228043517" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping/csv_files/products_scrapped_final.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385558550249" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping/csv_files/product_links_remd_backup.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385235296903" ignored="false" />
+    <file path="/products_scrapped_final.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385291007786" ignored="false" />
+    <file path="F:/Vikas/jobs/StudentAssignments/Workspace/Project10/test.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385304872265" ignored="false" />
+    <file path="/test.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385304857720" ignored="false" />
+    <file path="F:/Vikas/jobs/StudentAssignments/Workspace/Project10/currency.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385313123986" ignored="false" />
+    <file path="/currency.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385313115852" ignored="false" />
+    <file path="F:/Vikas/jobs/StudentAssignments/Workspace/Project10/proj10-test.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385313063580" ignored="false" />
+    <file path="/proj10-test.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385313037634" ignored="false" />
+    <file path="F:/Vikas/jobs/StudentAssignments/Workspace/Project10/proj10-app.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385313442281" ignored="false" />
+    <file path="/proj10-app.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385313441139" ignored="false" />
+    <file path="/nike_test.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385332779487" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping_2/csv_files/products_scrapped_10.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385552093589" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping_2/csv_files/products_scrapped_final.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385552081995" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping_2/csv_files/product_links_remd_10.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385552088768" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/__init__.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385382483919" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/AmazonScrap.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387726979538" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/config.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387726673137" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping_2/csv_files/product_links_remd_backup.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385385591838" ignored="false" />
+    <file path="/twitter_test.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385491966316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Nike_AutoAddToCart/com/__init__.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385489330722" ignored="false" />
+    <file path="$PROJECT_DIR$/../Nike_AutoAddToCart/com/config.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385490092937" ignored="false" />
+    <file path="$PROJECT_DIR$/../Nike_AutoAddToCart/com/config2.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385489550918" ignored="false" />
+    <file path="$PROJECT_DIR$/../Nike_AutoAddToCart/com/Utilities/myLogger.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387548482475" ignored="false" />
+    <file path="/myLogger.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387548475940" ignored="false" />
+    <file path="$PROJECT_DIR$/../Nike_AutoAddToCart/com/properties.ini" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385490438860" ignored="false" />
+    <file path="/properties.ini" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387632297500" ignored="false" />
+    <file path="$PROJECT_DIR$/../Nike_AutoAddToCart/com/Nike_AutoAddToCart.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387635375165" ignored="false" />
+    <file path="/config.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387727657310" ignored="false" />
+    <file path="$PROJECT_DIR$/../Nike_AutoAddToCart/com/Utilities/UtilityMethods.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385490131975" ignored="false" />
+    <file path="/UtilityMethods.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385490131975" ignored="false" />
+    <file path="/Nike_AutoAddToCart.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387635371366" ignored="false" />
+    <file path="$PROJECT_DIR$/../Nike_AutoAddToCart/com/PageEvents/webpageEvents.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387632330156" ignored="false" />
+    <file path="$PROJECT_DIR$/../Nike_AutoAddToCart/com/PageEvents/nikeEvents.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387635362645" ignored="false" />
+    <file path="/nikeEvents.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387635361724" ignored="false" />
+    <file path="$PROJECT_DIR$/../Nike_AutoAddToCart/comlogger.log" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387636353432" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping_3/csv_files/product_links_remd_10.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385558622689" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping_3/csv_files/products_scrapped_10.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385558611711" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping_4/csv_files/products_scrapped_10.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385558637125" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/PageEvents/__init__.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385550648881" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/PageEvents/AmazonUKEvents.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385550684593" ignored="false" />
+    <file path="/AmazonUKEvents.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385550684593" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/PageEvents/amazonUKEvents.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385550811288" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/PageEvents/webpageEvents.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385550780607" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping_3/csv_files/products_scrapped_final.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385558613877" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping_4/csv_files/products_scrapped_final.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385558639135" ignored="false" />
+    <file path="$PROJECT_DIR$/../Scott_Scraping_4/csv_files/product_links_remd_10.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385558646663" ignored="false" />
+    <file path="$PROJECT_DIR$/../Nike_AutoAddToCart/com/Resources/properties.ini" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387634837314" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/PageEvents/AmazonUKScrape.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385717194303" ignored="false" />
+    <file path="/AmazonUKScrape.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387727683783" ignored="false" />
+    <file path="/AmazonScrap.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387727704880" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/PageEvents/amazonProduct.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387533994510" ignored="false" />
+    <file path="/amazonProduct.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387532902825" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/Resources/urls.txt" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385650691801" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/Resources/AmazonProductURLs.txt" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387533275102" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/PageEvents/AmazonUSScrape.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387533181600" ignored="false" />
+    <file path="/AmazonUSScrape.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387533006121" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/Output/Scrape_output.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387535003686" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/PageEvents/AmazonCommon.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1385717633974" ignored="false" />
+    <file path="$PROJECT_DIR$/../Fiverr_OrderScrape/com/FiverrOrderScrape.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387380411468" ignored="false" />
+    <file path="/FiverrOrderScrape.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387380410447" ignored="false" />
+    <file path="$PROJECT_DIR$/../Fiverr_OrderScrape/com/PageEvents/webpageEvents.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387379702125" ignored="false" />
+    <file path="$PROJECT_DIR$/../Fiverr_OrderScrape/com/PageEvents/inputContent.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387380609114" ignored="false" />
+    <file path="/inputContent.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387380608738" ignored="false" />
+    <file path="$PROJECT_DIR$/../Fiverr_OrderScrape/com/PageEvents/fiverrEvents.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387379910879" ignored="false" />
+    <file path="/fiverrEvents.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387379908336" ignored="false" />
+    <file path="$PROJECT_DIR$/../Fiverr_OrderScrape/com/Resources/logger.log" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387380615223" ignored="false" />
+    <file path="$PROJECT_DIR$/../Fiverr_OrderScrape/com/Output/FO84F3D03B08.txt" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387376982545" ignored="false" />
+    <file path="$PROJECT_DIR$/../Fiverr_OrderScrape/com/FiverrOrderScrapeUI.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387380428787" ignored="false" />
+    <file path="/FiverrOrderScrapeUI.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387380230352" ignored="false" />
+    <file path="$PROJECT_DIR$/../Fiverr_OrderScrape/com/Resources/scrapedOrders.txt" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387380543048" ignored="false" />
+    <file path="/phantomjs_study.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387727184620" ignored="false" />
+    <file path="/service.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387531801448" ignored="false" />
+    <file path="$PROJECT_DIR$/../SatoshiMines_Bot/com/PageEvents/webpageEvents.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387551681549" ignored="false" />
+    <file path="$PROJECT_DIR$/../SatoshiMines_Bot/com/SatoshiMines_Bot.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387552355107" ignored="false" />
+    <file path="/SatoshiMines_Bot.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387552355107" ignored="false" />
+    <file path="$PROJECT_DIR$/../SatoshiMines_Bot/com/Resources/logger.log" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387552488859" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/Resources/logger.log" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387535003686" ignored="false" />
+    <file path="$PROJECT_DIR$/../SatoshiMines_Bot/com/config.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387552034804" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/Utilities/myLogger.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387534888068" ignored="false" />
+    <file path="/SatoshiMines_BotUI.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387551893501" ignored="false" />
+    <file path="$PROJECT_DIR$/../SatoshiMines_Bot/com/SatoshiMines_BotUI.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387551941731" ignored="false" />
+    <file path="$PROJECT_DIR$/../SatoshiMines_Bot/com/PageEvents/satoshiEvents.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387552465847" ignored="false" />
+    <file path="/satoshiEvents.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387552451266" ignored="false" />
+    <file path="$PROJECT_DIR$/../Nike_AutoAddToCart/com/ghostdriver.log" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387552962580" ignored="false" />
+    <file path="D:/Python27/Lib/site-packages/selenium/webdriver/support/wait.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387634178565" ignored="false" />
+    <file path="/wait.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387634027550" ignored="false" />
+    <file path="$PROJECT_DIR$/../Laurent_Weck/grabJSONs.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387648943536" ignored="false" />
+    <file path="/grabJSONs.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387638490165" ignored="false" />
+    <file path="$PROJECT_DIR$/../Laurent_Weck/csv_files/jsonURLs.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387638507955" ignored="false" />
+    <file path="$PROJECT_DIR$/../Laurent_Weck/grabFinalURLs.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387638524673" ignored="false" />
+    <file path="/grabFinalURLs.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387638498848" ignored="false" />
+    <file path="$PROJECT_DIR$/../Laurent_Weck/csv_files/finalURLs.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387638531220" ignored="false" />
+    <file path="/requests_study.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387724117119" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iain_amazon_Ebay_Selenium/com/PageEvents/AmazonUKScrape.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387727809042" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iain_amazon_Ebay_Selenium/com/PageEvents/webpageEvents.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387727355108" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iain_amazon_Ebay_Selenium/com/config.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387727658605" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iain_amazon_Ebay_Selenium/com/AmazonScrap.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387744029674" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iain_amazon_Ebay_Selenium/com/Resources/AmazonProductURLs.txt" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387727754116" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iain_amazon_Ebay_Selenium/com/__init__.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387727997624" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iain_amazon_Ebay_Selenium/com/Output/Scrape_output.csv" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387728015034" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iain_amazon_Ebay_Selenium/com/PageEvents/amazonEvents.py" changelist="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" time="1387743950211" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Study" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="phantomjs_study.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/root/nested/phantomjs_study.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="18" selection-start="707" selection-end="707" vertical-scroll-proportion="0.51952463">
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/root/chatSWs/chatServer.py" />
+        <option value="$PROJECT_DIR$/root/nested/chatServer.py" />
+        <option value="$PROJECT_DIR$/root/nested/chatClient.py" />
+        <option value="$PROJECT_DIR$/root/projects/project5c.py" />
+        <option value="$PROJECT_DIR$/speech.py" />
+        <option value="$PROJECT_DIR$/speech_temp.py" />
+        <option value="F:/Vikas/jobs/ufuk/freightauto.py" />
+        <option value="$PROJECT_DIR$/freightauto.py" />
+        <option value="$PROJECT_DIR$/root/zabbix/date.py" />
+        <option value="$PROJECT_DIR$/root/nested/nike_test.py" />
+        <option value="$PROJECT_DIR$/root/nested/twitter_test.py" />
+        <option value="$PROJECT_DIR$/root/image_download.py" />
+        <option value="D:/Python27/Lib/site-packages/selenium/webdriver/phantomjs/service.py" />
+        <option value="$PROJECT_DIR$/root/nested/requests_study.py" />
+        <option value="$PROJECT_DIR$/root/nested/temp.py" />
+        <option value="$PROJECT_DIR$/root/nested/phantomjs_study.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="786" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nested" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Fiverr_OrderScrape" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PyCharm\Workspace\Study\root\nested" />
+      <recent name="F:\PyCharm\Workspace\Study\root\projects" />
+      <recent name="F:\PyCharm\Workspace\Study\myModelsBackup" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PyCharm\Workspace\Study" />
+      <recent name="F:\PyCharm\Workspace\Study\root\chatSWs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.requests_study">
+    <configuration default="false" name="image_download" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/root" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Study" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/root/image_download.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="nike_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/root/nested" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Study" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/root/nested/nike_test.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="twitter_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/root/nested" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Study" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/root/nested/twitter_test.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="phantomjs_study" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/root/nested" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Study" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/root/nested/phantomjs_study.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="requests_study" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/root/nested" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Study" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/root/nested/requests_study.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Study" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Study" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Study" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.image_download" />
+      <item index="1" class="java.lang.String" itemvalue="Python.nike_test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.twitter_test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.phantomjs_study" />
+      <item index="4" class="java.lang.String" itemvalue="Python.requests_study" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.requests_study" />
+        <item index="1" class="java.lang.String" itemvalue="Python.phantomjs_study" />
+        <item index="2" class="java.lang.String" itemvalue="Python.image_download" />
+        <item index="3" class="java.lang.String" itemvalue="Python.twitter_test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.nike_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa0b330b-89fd-4943-ba3b-06fb44bb9afd" name="Default" comment="" />
+      <created>1379059553433</created>
+      <updated>1379059553433</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2974068" sideWeight="0.5366242" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48089173" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3057325" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4633758" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../PythonStudy/google-python-exercises/google-python-exercises/basic/list2.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://D:/Python27/Lib/site-packages/selenium/webdriver/phantomjs/service.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/Python27/Lib/site-packages/tweepy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="603" selection-end="603" vertical-scroll-proportion="0.39534885" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/tweepy/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="4" selection-start="1354" selection-end="1354" vertical-scroll-proportion="0.3327674" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/tweepy/binder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="196" column="0" selection-start="7468" selection-end="7468" vertical-scroll-proportion="0.33333334" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/twython/endpoints.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="36" selection-start="946" selection-end="957" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/nested/nike_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="722" selection-end="840" vertical-scroll-proportion="0.6192053" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/123.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/nested/twitter_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="114" selection-start="457" selection-end="567" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/image_download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="67" selection-start="1067" selection-end="1123" vertical-scroll-proportion="0.58774835" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/nested/NAICS_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="248" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="636" column="71" selection-start="20636" selection-end="20673" vertical-scroll-proportion="0.24787776" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/nested/temp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/selenium/webdriver/phantomjs/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="49" selection-start="2139" selection-end="2139" vertical-scroll-proportion="0.5299003">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/selenium/webdriver/phantomjs/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="26" selection-start="2035" selection-end="2035" vertical-scroll-proportion="0.7079796">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/nested/requests_study.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="12" selection-start="73" selection-end="73" vertical-scroll-proportion="0.16398714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/nested/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/nested/phantomjs_study.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="18" selection-start="707" selection-end="707" vertical-scroll-proportion="0.51952463">
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
